@@ -1,0 +1,14 @@
+{
+    "Name": "Placebo Neuroepo multisession",
+    "BIDSVersion": "1.2.0",
+    "Authors": [
+        "Maria Luisa Bringas Vega"
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds003195.v1.0.1",
+    "License": "CC0",
+    "Funding": [
+        "National Nature and Science Foundation of China (NSFC) No. 61871105, 61673090, 81330032",
+        "CNS Program of UESTC (No. Y0301902610100201)"
+    ],
+    "Acknowledgements": "The authors will like to thank for the support from the National Nature and Science Foundation of China (China-Cuba-Canada) and the CNS Programme of UESTC"
+}
