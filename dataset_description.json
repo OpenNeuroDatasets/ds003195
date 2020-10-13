@@ -2,7 +2,9 @@
     "Name": "Placebo Neuroepo multisession",
     "BIDSVersion": "1.2.0",
     "Authors": [
-        "Maria Luisa Bringas Vega"
+        "Maria Luisa Bringas Vega",
+        "Lilia Morales Chacon ",
+        "Ivonne Pedroso Ibanez"
     ],
     "DatasetDOI": "10.18112/openneuro.ds003195.v1.0.2",
     "License": "CC0",
